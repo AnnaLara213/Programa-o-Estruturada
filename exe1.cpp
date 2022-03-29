@@ -1,7 +1,7 @@
-/*1) Faça um programa em C que leia os valores 
+/*1) FaÃ§a um programa em C que leia os valores 
 A, B, C e imprima
 na tela se a soma de 
-A + B é menor que C */
+A + B Ã© menor que C */
 #include <stdio.h>
 
 int main(){
